@@ -1,0 +1,13 @@
+.baguetteBox-button#previous-button, .baguetteBox-button#next-button, .baguetteBox-button {
+    background: none;
+}
+
+.baguetteBox-button:focus, .baguetteBox-button:hover, .baguetteBox-button svg {
+    background-color: none !important;
+    outline: none !important;
+}
+
+div#baguetteBox-overlay {
+    backdrop-filter: grayscale(100%) blur(7px);
+    -webkit-backdrop-filter: grayscale(100%) blur(7px);
+}
