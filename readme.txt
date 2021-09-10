@@ -6,8 +6,8 @@ Requires at least: 4.5
 Tested up to: 5.8.1
 Requires PHP: 5.6
 Stable tag: 5.0.0.1
-License: GNU General Public License v2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License: MIT License
+License URI: https://github.com/bootscore/bs5-gutenberg-gallery-lightbox/blob/main/LICENSE
 
 This ads a lightbox to Gutenberg Gallery Block, Copyright 2020 Bastian Kreiter. Tutorial by Johannes Kinast https://go-around.de/blog/gutenberg-gallery-lightbox/
 
