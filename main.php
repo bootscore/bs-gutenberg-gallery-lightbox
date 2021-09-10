@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: bS5 Gutenberg Gallery Lightbox
+ * Plugin Name: bS Gutenberg Gallery Lightbox
  * Plugin URI: https://bootscore.me/plugins/bs-gutenberg-gallery-lightbox/
  * Description: Adds a Lightbox to the Gutenberg Gallery Block. Gallery settings must set to "Link to: Media File" in the right panel. Thnx <a href="https://go-around.de/blog/gutenberg-gallery-lightbox/">Johannes Kinast</a>
  * Author: Bastian Kreiter
