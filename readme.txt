@@ -1,15 +1,15 @@
 === bS Gutenberg Gallery Lightbox ===
 
-Contributors: craftwerk
+Contributors: Bastian Kreiter
 
 Requires at least: 4.5
-Tested up to: 5.8.1
+Tested up to: 5.8.2
 Requires PHP: 5.6
-Stable tag: 5.0.0.1
+Stable tag: 5.0.0.2
 License: MIT License
-License URI: https://github.com/bootscore/bs5-gutenberg-gallery-lightbox/blob/main/LICENSE
+License URI: https://github.com/bootscore/bs-gutenberg-gallery-lightbox/blob/main/LICENSE
 
-This ads a lightbox to Gutenberg Gallery Block, Copyright 2020 Bastian Kreiter. Tutorial by Johannes Kinast https://go-around.de/blog/gutenberg-gallery-lightbox/
+This ads a lightbox to Gutenberg Gallery Block, Copyright 2020 - 2022 bootScore. Tutorial by Johannes Kinast https://go-around.de/blog/gutenberg-gallery-lightbox/
 
 == Installation ==
 
@@ -22,6 +22,11 @@ This ads a lightbox to Gutenberg Gallery Block, Copyright 2020 Bastian Kreiter. 
 Gallery settings must set to "Link to: Media File" in the right panel.
 
 == Changelog ==
+
+    = 5.0.0.2 - January 06 2022 =
+    
+        * [REMOVED] Overlay backdrop filter
+        * [IMPROVEMENT] Added README.md
 
     = 5.0.0.1 - March 02 2021 =
     
