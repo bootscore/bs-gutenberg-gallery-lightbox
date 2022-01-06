@@ -4,7 +4,7 @@ WordPress plugin to add a lightbox to the default Gutenberg image gallery block.
 
 Demo: https://bootscore.me/plugins/bs-gutenberg-gallery-lightbox/
 
-Documentation: https://bootscore.me/documentation/bs-preloader/
+Documentation: https://bootscore.me/documentation/bs-gutenberg-gallery-lightbox/
 
 ## Installation
 
