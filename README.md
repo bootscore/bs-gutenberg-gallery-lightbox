@@ -6,6 +6,8 @@ Demo: https://bootscore.me/plugins/bs-gutenberg-gallery-lightbox/
 
 Documentation: https://bootscore.me/documentation/bs-gutenberg-gallery-lightbox/
 
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLVO3rQea4K4sWBoJgYkBoYz15SSuF7GVJBcx4DpjlhTa4IB-zCsYKhUic5CszPtuSBml5oXOmawW2TkW-Qx861KLkdWseEtZBC5tTpdr_aolF9WI37PXuME9Fr4Iw-8cYaOwB6sgCEnVHdT_4VOHCaAIw=w2064-h1548-no">
+
 ## Installation
 
 1. Download the zip file right here by pressing the green `code` button above. 
