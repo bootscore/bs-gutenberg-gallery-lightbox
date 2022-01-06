@@ -21,6 +21,8 @@ Documentation: https://bootscore.me/documentation/bs-gutenberg-gallery-lightbox/
 - Insert images
 - Right side in the block settings, set Link to “Media File”
 
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLXB4A3yde6xgAObWIhjpaDK9i8SY66CJMWyoKxVs0y4pCSuV3Cx6hyPioPei9E2tZPaY1DFtSmqiqXqRdzUvXv8qn8_HaWDRXRruxYayobcqgPTa7jVC5fyqJfwW6KCYFVkeZBXhfU0mvw61t31Si9guA=w1200-h738-no">
+
 ## License & Credits
 
 - bS Gutenberg Gallery Lightbox, MIT License https://bootscore.me/documentation/bs-gutenberg-gallery-lightbox/
